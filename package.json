@@ -1,0 +1,11 @@
+{
+  "name": "weekly-reading-adventures",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-content.mjs",
+    "check": "npm run validate && node --check app.js && node scripts/validate-site.mjs && node scripts/validate-audio.mjs",
+    "serve": "python3 -m http.server 5173"
+  }
+}

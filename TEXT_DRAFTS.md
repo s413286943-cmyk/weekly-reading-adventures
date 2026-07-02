@@ -1,0 +1,316 @@
+# Weekly Reading Adventures Text Drafts
+
+Status: text draft for review. Audio and GitHub Pages publishing should wait until these texts are approved.
+
+## Standard Listening And Reading Routine
+
+1. First listen: listen to the full audio without looking at the text. Do not try to catch every word. Focus on the main idea, topic, speaker attitude, and basic structure. After listening, say what the text is mainly about in Chinese or English.  
+   第一遍：音频盲听。不看文本，完整听一遍音频。目标不是听懂每个词，而是抓住文章的大意、主题、说话人态度和基本结构。听完后，用中文或英文说出这篇内容大概讲了什么。
+2. Second listen with text: open the text and listen while reading. Mark words or sentences you missed while listening but recognize in print, key words and expressions that affect understanding, and long or difficult sentences that still take time to process. The goal is to find out why the audio was hard to understand.  
+   第二遍：看文本听音频。打开文本，边看边听。重点标记三类内容：听的时候没听出来，但看文本认识的词或句子；影响理解的关键词、短语和表达；看文本也需要反应一会儿的长难句。这一遍的目标是找出“为什么听不懂”。
+3. Close reading: analyze the structure, paragraph main ideas, key words, and long or difficult sentences. Do not translate the whole text word by word. Understand each paragraph's role and the logic between sentences, such as cause and effect, contrast, addition, examples, and summary.  
+   第三步：精读文本。分析文章结构、段落主旨、关键词和长难句。不要逐字翻译全文，理解每段在文章中的作用，以及句子之间的逻辑关系，例如因果、转折、递进、举例和总结。
+4. Regular repeat-after-audio reading: after understanding the text, listen to one sentence, pause, and imitate it. Focus on pronunciation, stress, intonation, pauses, linking, and weak forms. Do not chase speed at first; focus on quality.  
+   第四步：普通跟读。在理解文本之后，进行普通跟读。方式是：听一句，暂停，然后模仿一句。重点模仿发音、重音、语调、停顿、连读和弱读。不要一开始就追求速度，先保证质量。
+5. Shadow reading: after you basically understand the audio and text and have completed regular repeat-after-audio reading, shadow the audio without pausing. Follow half a second to two seconds behind the speaker. Start at 0.75x or 0.8x speed if needed, then gradually return to normal speed. If you fall behind, do not go back; continue with the next sentence.  
+   第五步：影子跟读。基本听懂、读懂，并完成普通跟读后，再进行影子跟读。音频不停，延迟半秒到两秒跟读。刚开始可以使用0.75或0.8倍速，然后再逐渐恢复正常速度。跟丢时不要回头补，继续跟下一句。
+6. Retell and output: after studying, retell the text in Chinese or English. Beginners can use simple sentences such as "This article is about...", "The author says...", "One example is...", and "I think..." Intermediate and advanced learners should try to retell in English for 30 seconds to 1 minute.  
+   第六步：复述输出。学完后，用中文或英文复述文章内容。初级可以用简单句，例如：“This article is about…” “The author says…” “One example is…” “I think…” 中高级则尝试用英文复述30秒到1分钟。
+7. Next-day review: review quickly the next day. You do not need to close-read the full text again. First recall the text, then listen once without looking, and finally choose a short part for regular repeat-after-audio reading or shadow reading.  
+   第七步：隔天复习。第二天快速复习，不需要重新完整精读。先回忆文章内容，再不看文本听一遍音频，最后选一小段进行跟读或影子跟读。
+
+## Week 1: The Secret Schedule
+
+Genre: Realistic fiction  
+Theme: Summer routine  
+Reading focus: Sequence and main idea  
+Word count: 250
+
+Mia thought summer mornings should be slow. On the first Monday, she slept until the sun was high. She ate cereal at noon, read three comics, and forgot to water the basil on the windowsill. By dinner, her little brother Leo had built a fort, cleaned it, and filled it with books. Mia felt as if the day had slipped through her fingers.
+
+That night, Grandma gave Mia a small notebook with a blue cover. On the first page, Grandma had written, "Secret Schedule." Mia laughed. "A schedule is not secret," she said. Grandma winked. "It is secret because you make it for yourself."
+
+The next morning, Mia wrote four quiet plans: water the basil, read ten pages, draw one bird, help Leo for fifteen minutes. She did not write every minute of the day. She left wide blank spaces for swimming, snacks, and doing nothing. She also circled one blank box and called it free time. That made the plan feel friendly.
+
+At breakfast, Leo tried to peek. Mia covered the page with her hand. "Secret," she said. First, she watered the basil. Then she read beside the window. After lunch, she drew a sparrow that looked more like a potato with wings. Leo still liked it. He asked her to help build a paper tower. Mia checked her notebook and smiled. Helping Leo was already on the list.
+
+By bedtime, Mia had not done everything, but she knew where her day had gone. The next page was waiting.
+
+Quick check:
+
+1. What is the main idea of the story?
+2. What did Mia do first after breakfast?
+3. Why did Grandma call it a secret schedule?
+4. How did Mia feel at bedtime on the second day?
+
+Retell prompt: Retell how Mia's second summer day was different from her first one.  
+复述Mia第二个暑假日子和第一个日子有什么不同。
+
+## Week 2: Fireflies After Dinner
+
+Genre: Science narrative  
+Theme: Nature observation  
+Reading focus: Cause and effect  
+Word count: 250
+
+After dinner, Noah carried a glass jar into the yard. His cousin Ava followed with a notebook and a pencil. Tiny green lights blinked above the grass. They looked like stars that had fallen very close to the ground.
+
+"Let's catch one," Noah whispered. He held the jar open, but Ava put a hand on his arm. "We can watch without keeping them," she said. "Dad told me fireflies use their lights to talk."
+
+The children sat on the back steps. One light flashed twice near the fence. A second light answered from under the peach tree. Noah counted quietly. Flash, dark, flash, dark. Ava drew dots in her notebook. Soon she noticed that some lights blinked low in the grass, while others floated higher. Some blinked quickly. Some waited longer. They stayed quiet.
+
+Ava explained what she knew. Fireflies are beetles, not flies. Their bodies make cold light, so the light does not burn them. Many fireflies blink to find a mate. If a yard is too bright, the fireflies may have trouble seeing one another.
+
+Noah looked toward the porch lamp. "Is our light too bright?" he asked. Ava shrugged. They turned it off. The yard became darker, and the green sparks seemed brighter. More lights appeared near the garden.
+
+Noah closed the empty jar. "I caught something anyway," he said. Ava looked at the notebook. "What?" "A question," Noah said. "Why do some blink high and some blink low?" Ava grinned and wrote it down for tomorrow.
+
+Quick check:
+
+1. What happened after Noah and Ava turned off the porch lamp?
+2. What kind of insect is a firefly?
+3. Why did Ava stop Noah from keeping a firefly in the jar?
+4. In this text, what does observe mean?
+
+Retell prompt: Retell what Noah and Ava learned by watching fireflies.  
+复述Noah和Ava观察萤火虫时学到了什么。
+
+## Week 3: A Postcard from the Train
+
+Genre: Postcard / letter  
+Theme: Travel  
+Reading focus: Inferring details  
+Word count: 250
+
+Dear Sam,
+
+I am writing this postcard on a train table that keeps shaking. If my letters look like dancing ants, blame the wheels. I stuck this postcard under my elbow whenever the train bumped. That helped a little, too. We left the city early this morning. At first, the windows showed tall buildings, bus stops, and people carrying coffee. Then the buildings became smaller. Now I can see fields, stone walls, and cows that do not care about trains.
+
+Mom said a train trip is like reading a long picture book. Every window is a page. I think she is right. One page had a red barn. One page had a river with three fishing boats. One page had a boy waving from a bridge. I waved back, but he probably could not see me.
+
+The best part was the tunnel. Everything went black for twenty seconds. My little sister gasped and grabbed my sleeve. When we came out, the sun flashed on a lake. It was so bright that everyone in our car looked up at the same time.
+
+We packed sandwiches, apples, and a deck of cards. Dad lost the first card game because he was watching the mountains instead of his hand. I cannot blame him. The mountains look blue from far away, like folded paper.
+
+We will reach Aunt Nora's town before dinner. She says the station has only two platforms and one sleepy cat. I will look for the cat first.
+
+Your friend,
+
+Ellis
+
+Quick check:
+
+1. Is Ellis traveling from a city toward a smaller town? How do you know?
+2. What happened after the train came out of the tunnel?
+3. What does Mom mean when she says a train trip is like a long picture book?
+4. What does Ellis want to look for first at the station?
+
+Retell prompt: Retell Ellis's train ride using three changing window views.  
+用三个车窗外变化的景象复述Ellis的火车旅行。
+
+## Week 4: How to Build a Rainy-Day Museum
+
+Genre: How-to  
+Theme: Creativity at home  
+Reading focus: Steps and materials  
+Word count: 250
+
+A rainy day can feel small, but a museum can make it bigger. You do not need marble floors or glass cases. You need a table, some paper, and things that have stories.
+
+First, choose a museum space. A kitchen table works well because visitors can walk around it. Put down a clean cloth or a few sheets of paper. This makes your museum look planned, even if you started ten minutes ago. Add a title sign so visitors know where to begin their walk first.
+
+Next, collect five to eight objects. Do not pick only pretty things. Pick things that make people ask questions. A smooth stone from a walk, a ticket from a bus ride, a shell, a broken toy wheel, or a funny button can all belong in a museum.
+
+After that, write labels. A good label is short but helpful. Write the object's name, where it came from, and one detail. For example: "Gray Stone. Found near the river. It feels cool even in summer."
+
+Then arrange the objects in an order. You might sort them by color, size, age, or story. Leave space between them so each object feels important.
+
+Finally, invite visitors. Give each person a paper ticket. As they walk through, tell one story about your favorite object. Ask them which object they would add to the museum.
+
+When the rain stops, you can close the museum or change it. A good museum is never really finished. It waits for the next story.
+
+Quick check:
+
+1. What should you do after collecting objects?
+2. Name two things you need to build the museum.
+3. What is the main purpose of this text?
+4. Why should you leave space between objects?
+
+Retell prompt: Retell the steps for making a rainy-day museum.  
+复述制作雨天小博物馆的步骤。
+
+## Week 5: The Missing Blue Bucket
+
+Genre: Mystery  
+Theme: Beach and community  
+Reading focus: Finding evidence  
+Word count: 263
+
+Jonah brought one blue bucket to the beach. It had a white handle and a sticker shaped like a turtle. He used it to carry wet sand for the wall of his castle. Then his mother called, "Snack time!" Jonah pushed the bucket beside the castle and ran to the blanket.
+
+When he came back, the bucket was gone.
+
+Jonah looked under the towel. He looked near the water. He even checked a hole that a small dog had been digging. No bucket. His castle wall was only half done.
+
+"Think like a detective," Mom said. "What do you know?"
+
+Jonah saw three clues. First, a line of wet sand led away from the castle. Second, tiny shell pieces were stuck in the sand line. Third, he heard a scraping sound near the lifeguard chair.
+
+Jonah followed the sand line. It curved around a family umbrella and stopped beside a girl in a yellow hat. She was filling his blue bucket with shells. Her little brother was dropping the shells back out, one by one. Scrape, scrape, scrape.
+
+"That's my bucket," Jonah said.
+
+The girl looked surprised. "I'm sorry. I thought someone left it." She pointed to another bucket, red and cracked, lying near her towel. "Mine broke."
+
+Jonah looked at his half-built castle and then at the pile of shells. "You can borrow it for five minutes," he said. "But I need it back for my wall."
+
+The girl smiled. "Deal. And you can use some shells for windows."
+
+By sunset, the castle had strong walls, shell windows, and two new builders.
+
+Quick check:
+
+1. Name two clues Jonah followed.
+2. Where did Jonah find the bucket?
+3. Why did the girl take the bucket?
+4. What good thing happened because of the missing bucket?
+
+Retell prompt: Retell the mystery by naming the problem, the clues, and the solution.  
+按问题、线索、解决办法来复述这个小侦探故事。
+
+## Week 6: Breakfasts Around the World
+
+Genre: Compare and contrast nonfiction  
+Theme: Culture and food  
+Reading focus: Compare and contrast  
+Word count: 250
+
+Breakfast does the same job in many places. It gives people energy for the morning. But breakfast does not look the same everywhere. The foods often match the weather, the farms, and the habits of each place. These choices make breakfast feel familiar and useful.
+
+In Japan, some families eat rice, grilled fish, soup, and pickled vegetables. This breakfast may look more like lunch to children from other countries. It is warm, salty, and filling. Rice is important in many Japanese meals, so it also appears in the morning.
+
+In Mexico, people may eat chilaquiles. This dish uses pieces of tortilla cooked with sauce. It can have eggs, cheese, beans, or chicken on top. It is a good way to use tortillas from the day before, so little food is wasted.
+
+In France, a simple breakfast might be bread with butter or jam. Some people dip the bread into a warm drink. This breakfast is lighter than the Japanese meal, but it can still feel special because the bread is fresh.
+
+In Kenya, many families enjoy mandazi, a soft fried bread, with tea. Other families may eat porridge made from grains. These foods are easy to share and can help people feel full before school or work.
+
+These breakfasts are different, but they also have things in common. Many use grains, such as rice, corn, wheat, or millet. Many are eaten with family. Most of all, each breakfast tells a small story about where people live and what they value.
+
+Quick check:
+
+1. What do many breakfasts in the text have in common?
+2. Which breakfast may use tortillas from the day before?
+3. How is the French breakfast different from the Japanese breakfast in the text?
+4. What is the main idea of the last paragraph?
+
+Retell prompt: Retell two ways these breakfasts are different and one way they are alike.  
+复述这些早餐的两个不同点和一个相同点。
+
+## Week 7: The Garden Swap
+
+Genre: Dialogue / play script  
+Theme: Cooperation  
+Reading focus: Speaker intent  
+Word count: 250
+
+Characters: Ruby, Max, Mrs. Chen
+
+Ruby: My tomato plant has six tiny tomatoes. I am going to win the garden show.
+
+Max: Maybe. My sunflower is taller than my bike. Tall things get attention.
+
+Ruby: The show is not only about height.
+
+Max: It is not only about tomatoes either.
+
+Mrs. Chen: Good morning, gardeners. Why are your voices louder than the bees?
+
+Narrator: A bee landed on Ruby's hat, but no one moved. They listened carefully.
+
+Ruby: Max thinks his sunflower will win because it is tall.
+
+Max: Ruby thinks her tomatoes will win because they are useful.
+
+Mrs. Chen: Both plants sound healthy. What does the garden need most today?
+
+Ruby: Water?
+
+Max: Weeds pulled?
+
+Mrs. Chen: Look closely.
+
+Ruby: The bean vines are falling over.
+
+Max: The lettuce is too dry under the big leaves.
+
+Mrs. Chen: A garden show is one day. A garden is every day.
+
+Ruby: So we should help the whole garden, not just our own plants?
+
+Mrs. Chen: That is what good gardeners do.
+
+Max: I have extra sticks for the bean vines.
+
+Ruby: I can carry water to the lettuce.
+
+Max: If I help your tomatoes later, can I have one when they are ready?
+
+Ruby: Only if I can take a picture with your giant sunflower.
+
+Mrs. Chen: That sounds like a fair swap.
+
+Narrator: By the afternoon, the beans stood tall, the lettuce looked fresh, and two gardeners had stopped counting wins. They were counting what still needed care.
+
+Quick check:
+
+1. Why does Mrs. Chen ask, "What does the garden need most today?"
+2. What problem do Ruby and Max find with the bean vines?
+3. How do Ruby and Max change by the end?
+4. What lesson does the play teach?
+
+Retell prompt: Retell the play by explaining what each speaker wants at the beginning and what changes at the end.  
+复述时说清楚每个人一开始想要什么，以及最后发生了什么变化。
+
+## Week 8: The Cloud Library
+
+Genre: Gentle fantasy  
+Theme: Imagination and reading  
+Reading focus: Theme and retell  
+Word count: 274
+
+On the hottest day of August, Lila lay on the balcony floor and watched clouds move across the sky. One cloud looked like a whale. Another looked like a shoe with a hole in it. The third cloud opened like a door.
+
+Lila sat up. Inside the cloud was a room with shelves. The shelves were made of mist, but they held books that did not fall. A silver ladder rolled by itself. A sign over the door said, "Cloud Library. Quiet voices, big thoughts."
+
+A librarian with moon-gray hair leaned out. "Do you have a library card?"
+
+Lila checked her pockets. She had a hair clip, two raisins, and a bus ticket. "No," she said.
+
+"Then bring a question," said the librarian. "A good question works for one visit."
+
+Lila thought carefully. "Where do stories go after someone reads them?"
+
+"Excellent," said the librarian, and the cloud door lowered like a soft bridge.
+
+Inside, books whispered as Lila passed. One book smelled like rain on hot stone. Another hummed a tune she almost knew. The librarian handed her a thin blue book. "This one is short, but it grows if you share it."
+
+Lila read about a girl who planted a map and grew a forest of roads. When she finished, the pages became blank.
+
+"Where did the story go?" Lila asked.
+
+The librarian pointed down. On the street below, a boy opened a notebook and began to draw trees beside a road.
+
+"Stories do not stay put," the librarian said. "They move into people."
+
+The cloud door closed gently. Lila ran inside to find her own notebook before the idea floated away.
+
+Quick check:
+
+1. What is the theme of this fantasy story?
+2. What does Lila need instead of a library card?
+3. Why does Lila run to find her notebook at the end?
+4. Name one thing in the story that could not happen in real life.
+
+Retell prompt: Retell Lila's visit to the Cloud Library and explain what she learns about stories.  
+复述Lila参观云朵图书馆的经历，并说明她学到了关于故事的什么道理。

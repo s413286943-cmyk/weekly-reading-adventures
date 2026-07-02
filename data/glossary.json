@@ -1,0 +1,332 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "entries": [
+        {
+          "term": "schedule",
+          "definition": "a plan that tells when things will happen",
+          "zh": "日程表；计划",
+          "example": "Grandma had written, \"Secret Schedule.\""
+        },
+        {
+          "term": "slipped through her fingers",
+          "definition": "passed quickly without being noticed or used well",
+          "zh": "从手中溜走；不知不觉过去",
+          "example": "Mia felt as if the day had slipped through her fingers."
+        },
+        {
+          "term": "windowsill",
+          "definition": "the flat shelf at the bottom of a window",
+          "zh": "窗台",
+          "example": "She forgot to water the basil on the windowsill."
+        },
+        {
+          "term": "fort",
+          "definition": "a small play shelter made by children",
+          "zh": "堡垒；孩子搭的小屋",
+          "example": "Leo had built a fort, cleaned it, and filled it with books."
+        },
+        {
+          "term": "blank spaces",
+          "definition": "empty parts left for later use",
+          "zh": "空白处",
+          "example": "She left wide blank spaces for swimming, snacks, and doing nothing."
+        },
+        {
+          "term": "peek",
+          "definition": "to look quickly or secretly",
+          "zh": "偷看；瞥一眼",
+          "example": "At breakfast, Leo tried to peek."
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "entries": [
+        {
+          "term": "fireflies",
+          "definition": "small beetles that make light",
+          "zh": "萤火虫",
+          "example": "Fireflies are beetles, not flies."
+        },
+        {
+          "term": "blinked",
+          "definition": "turned on and off quickly",
+          "zh": "闪烁",
+          "example": "Tiny green lights blinked above the grass."
+        },
+        {
+          "term": "jar",
+          "definition": "a glass container with a wide top",
+          "zh": "罐子；玻璃瓶",
+          "example": "Noah carried a glass jar into the yard."
+        },
+        {
+          "term": "porch lamp",
+          "definition": "a light outside the front or back door",
+          "zh": "门廊灯",
+          "example": "Noah looked toward the porch lamp."
+        },
+        {
+          "term": "mate",
+          "definition": "an animal partner for having young",
+          "zh": "配偶；伴侣",
+          "example": "Many fireflies blink to find a mate."
+        },
+        {
+          "term": "sparks",
+          "definition": "small bright points of light",
+          "zh": "火花；亮点",
+          "example": "The green sparks seemed brighter."
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "entries": [
+        {
+          "term": "postcard",
+          "definition": "a card sent by mail, often with a picture",
+          "zh": "明信片",
+          "example": "I am writing this postcard on a train table."
+        },
+        {
+          "term": "blame",
+          "definition": "to say something is the reason for a problem",
+          "zh": "责怪；归咎于",
+          "example": "If my letters look like dancing ants, blame the wheels."
+        },
+        {
+          "term": "tunnel",
+          "definition": "a long passage under the ground or through a mountain",
+          "zh": "隧道",
+          "example": "The best part was the tunnel."
+        },
+        {
+          "term": "gasped",
+          "definition": "took in air suddenly because of surprise or fear",
+          "zh": "倒吸一口气；惊呼",
+          "example": "My little sister gasped and grabbed my sleeve."
+        },
+        {
+          "term": "platforms",
+          "definition": "raised areas beside train tracks where people wait",
+          "zh": "站台",
+          "example": "The station has only two platforms and one sleepy cat."
+        },
+        {
+          "term": "folded paper",
+          "definition": "paper bent into layers or shapes",
+          "zh": "折叠的纸",
+          "example": "The mountains look blue from far away, like folded paper."
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "entries": [
+        {
+          "term": "marble",
+          "definition": "a hard stone often used in buildings",
+          "zh": "大理石",
+          "example": "You do not need marble floors or glass cases."
+        },
+        {
+          "term": "collect",
+          "definition": "to bring things together",
+          "zh": "收集",
+          "example": "Next, collect five to eight objects."
+        },
+        {
+          "term": "labels",
+          "definition": "small notes that name or explain things",
+          "zh": "标签；说明牌",
+          "example": "After that, write labels."
+        },
+        {
+          "term": "arrange",
+          "definition": "to put things in an order or position",
+          "zh": "安排；摆放",
+          "example": "Then arrange the objects in an order."
+        },
+        {
+          "term": "visitors",
+          "definition": "people who come to see a place or event",
+          "zh": "参观者；来访者",
+          "example": "Finally, invite visitors."
+        },
+        {
+          "term": "belongs",
+          "definition": "fits or has a place somewhere",
+          "zh": "属于；适合放在",
+          "example": "A funny button can all belong in a museum."
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "entries": [
+        {
+          "term": "bucket",
+          "definition": "a container with a handle for carrying things",
+          "zh": "桶",
+          "example": "Jonah brought one blue bucket to the beach."
+        },
+        {
+          "term": "handle",
+          "definition": "the part you hold to carry something",
+          "zh": "把手",
+          "example": "It had a white handle and a sticker shaped like a turtle."
+        },
+        {
+          "term": "clues",
+          "definition": "pieces of information that help solve a mystery",
+          "zh": "线索",
+          "example": "Jonah saw three clues."
+        },
+        {
+          "term": "scraping",
+          "definition": "a rough sound made when something rubs a surface",
+          "zh": "刮擦声",
+          "example": "He heard a scraping sound near the lifeguard chair."
+        },
+        {
+          "term": "cracked",
+          "definition": "broken with a line on the surface",
+          "zh": "有裂缝的",
+          "example": "She pointed to another bucket, red and cracked."
+        },
+        {
+          "term": "deal",
+          "definition": "an agreement between people",
+          "zh": "成交；约定",
+          "example": "The girl smiled. \"Deal.\""
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "entries": [
+        {
+          "term": "energy",
+          "definition": "the power to move, think, and do things",
+          "zh": "能量；精力",
+          "example": "It gives people energy for the morning."
+        },
+        {
+          "term": "habits",
+          "definition": "things people often do",
+          "zh": "习惯",
+          "example": "The foods often match the weather, the farms, and the habits of each place."
+        },
+        {
+          "term": "grilled",
+          "definition": "cooked over heat on a metal frame or pan",
+          "zh": "烤的；煎烤的",
+          "example": "Some families eat rice, grilled fish, soup, and pickled vegetables."
+        },
+        {
+          "term": "pickled",
+          "definition": "kept in vinegar or salty water for flavor",
+          "zh": "腌制的",
+          "example": "Some families eat rice, grilled fish, soup, and pickled vegetables."
+        },
+        {
+          "term": "tortilla",
+          "definition": "a thin flat bread made from corn or wheat",
+          "zh": "墨西哥薄饼",
+          "example": "This dish uses pieces of tortilla cooked with sauce."
+        },
+        {
+          "term": "grains",
+          "definition": "seeds from plants such as rice, corn, wheat, or millet",
+          "zh": "谷物",
+          "example": "Many use grains, such as rice, corn, wheat, or millet."
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "entries": [
+        {
+          "term": "swap",
+          "definition": "to trade one thing for another",
+          "zh": "交换",
+          "example": "That sounds like a fair swap."
+        },
+        {
+          "term": "sunflower",
+          "definition": "a tall plant with a large yellow flower",
+          "zh": "向日葵",
+          "example": "My sunflower is taller than my bike."
+        },
+        {
+          "term": "vines",
+          "definition": "plants with long thin stems that climb or spread",
+          "zh": "藤蔓",
+          "example": "The bean vines are falling over."
+        },
+        {
+          "term": "lettuce",
+          "definition": "a green leafy vegetable",
+          "zh": "生菜",
+          "example": "The lettuce is too dry under the big leaves."
+        },
+        {
+          "term": "fair",
+          "definition": "right and reasonable for everyone",
+          "zh": "公平的",
+          "example": "That sounds like a fair swap."
+        },
+        {
+          "term": "care",
+          "definition": "help or attention given to something",
+          "zh": "照料；关心",
+          "example": "They were counting what still needed care."
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "entries": [
+        {
+          "term": "balcony",
+          "definition": "a small outdoor platform attached to a building",
+          "zh": "阳台",
+          "example": "Lila lay on the balcony floor and watched clouds move across the sky."
+        },
+        {
+          "term": "mist",
+          "definition": "very small drops of water in the air",
+          "zh": "薄雾",
+          "example": "The shelves were made of mist."
+        },
+        {
+          "term": "librarian",
+          "definition": "a person who works in a library",
+          "zh": "图书管理员",
+          "example": "A librarian with moon-gray hair leaned out."
+        },
+        {
+          "term": "question",
+          "definition": "something you ask because you want to know more",
+          "zh": "问题",
+          "example": "A good question works for one visit."
+        },
+        {
+          "term": "hummed",
+          "definition": "made a low musical sound",
+          "zh": "哼唱；发出低声",
+          "example": "Another hummed a tune she almost knew."
+        },
+        {
+          "term": "blank",
+          "definition": "empty, with nothing written or drawn",
+          "zh": "空白的",
+          "example": "When she finished, the pages became blank."
+        }
+      ]
+    }
+  ]
+}

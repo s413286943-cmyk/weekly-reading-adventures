@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Weekly Reading Adventures</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-copy">
+      <p class="site-label">暑假阅读资源 · Summer reading resource</p>
+      <h1>Weekly Reading Adventures</h1>
+      <p class="site-subtitle">每周一篇短文，听一听，读一读，说一说。One short reading each week.</p>
+    </div>
+    <div class="header-actions">
+      <label for="weekSelect">选择周次 · Choose week</label>
+      <select id="weekSelect" aria-label="选择周次 Choose reading week"></select>
+    </div>
+  </header>
+
+  <main class="app-shell" id="appShell" hidden>
+    <nav class="week-strip" aria-label="每周阅读 Weekly readings">
+      <div class="week-list" id="weekList"></div>
+    </nav>
+
+    <section class="reading-workspace" aria-live="polite">
+      <div class="reading-topline">
+        <div>
+          <p class="week-kicker" id="weekKicker"></p>
+          <h2 id="readingTitle"></h2>
+          <p class="reading-meta" id="readingMeta"></p>
+        </div>
+      </div>
+
+      <section class="audio-panel" aria-label="听一听 Listen">
+        <div class="audio-copy">
+          <h3>听一听 · Listen</h3>
+          <p id="audioStatus">播放完整朗读。Play the full reading.</p>
+        </div>
+        <audio id="readingAudio" controls preload="metadata"></audio>
+        <div class="speed-row" aria-label="播放速度 Playback speed">
+          <button type="button" class="speed-btn" data-speed="0.75">0.75x</button>
+          <button type="button" class="speed-btn" data-speed="0.8">0.8x</button>
+          <button type="button" class="speed-btn" data-speed="1">1x</button>
+        </div>
+      </section>
+
+      <section class="text-panel" aria-label="原文阅读 Reading text">
+        <div class="section-heading">
+          <h3>原文阅读 · Reading</h3>
+          <p id="textModeHint"></p>
+        </div>
+        <div class="story-text" id="storyText"></div>
+      </section>
+
+      <div class="support-area" aria-label="可选帮助 Optional support">
+        <details class="resource-details">
+          <summary>
+            <span>怎么读 · Reading guide</span>
+            <small>七步流程可选打开 · Optional 7-step routine</small>
+          </summary>
+          <ol class="guide-steps" id="stepList"></ol>
+          <section class="focus-panel" id="stepWorkspace"></section>
+        </details>
+
+        <details class="resource-details">
+          <summary>
+            <span>生词词典 · Dictionary</span>
+            <small>需要时再看 · Open only when needed</small>
+          </summary>
+          <section class="dictionary-panel" aria-label="生词词典 Dictionary">
+            <label class="search-label" for="dictionarySearch">搜索单词或中文 · Search word or Chinese</label>
+            <input id="dictionarySearch" class="dictionary-search" type="search" placeholder="例如 schedule / 日程" />
+            <div id="dictionaryList" class="dictionary-list"></div>
+          </section>
+        </details>
+
+        <details class="resource-details">
+          <summary>
+            <span>阅读检查 · Quick check</span>
+            <small>口头回答即可 · Answer aloud</small>
+          </summary>
+          <section class="question-panel" aria-label="阅读检查 Quick check">
+            <div id="questionList"></div>
+          </section>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <div class="loading-state" id="loadingState">
+    正在加载暑假阅读资源... Loading summer reading resource...
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
