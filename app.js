@@ -399,10 +399,12 @@ function renderHeader(reading) {
 }
 
 function renderAudio(reading) {
-  readingAudio.src = reading.audioSrc;
-  readingAudio.load();
+  if (readingAudio.getAttribute("src") !== reading.audioSrc) {
+    readingAudio.src = reading.audioSrc;
+    readingAudio.load();
+    audioStatus.textContent = "播放完整朗读。Play the full reading.";
+  }
   readingAudio.playbackRate = Number(stateForWeek().speed || 1);
-  audioStatus.textContent = "播放完整朗读。Play the full reading.";
 
   document.querySelectorAll(".speed-btn").forEach((button) => {
     button.classList.toggle("active", Number(button.dataset.speed) === Number(stateForWeek().speed || 1));
@@ -658,7 +660,6 @@ function showEvidence(index) {
 function setSpeed(speed) {
   const weekState = stateForWeek();
   weekState.speed = speed;
-  readingAudio.playbackRate = speed;
   saveState();
   renderAudio(currentReading());
 }
